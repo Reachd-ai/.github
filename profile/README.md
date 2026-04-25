@@ -10,5 +10,5 @@ We publish data-driven research on Generative Engine Optimization (GEO) and AI E
 
 ## Links
 
-- [reachd.ai](https://reachd.ai) — Check how AI sees any business
+- [reachd.ai](https://reachd.ai) — Free scan: check if AI recommends your business and what to fix
 - [hello@reachd.ai](mailto:hello@reachd.ai) — Contact
